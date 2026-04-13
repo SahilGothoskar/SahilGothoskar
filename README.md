@@ -42,12 +42,12 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilGothoskar&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&ring_color=e05397&title_color=e05397&icon_color=e05397&text_color=c9d1d9" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilGothoskar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e05397&text_color=c9d1d9" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilGothoskar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilGothoskar&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilGothoskar&theme=radical&hide_border=true&background=0d1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilGothoskar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
