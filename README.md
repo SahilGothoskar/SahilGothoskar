@@ -45,36 +45,15 @@
 
 ---
 
-### 💼 Experience
-
-| Company | Role | Duration |
-|---------|------|----------|
-| **TikTok USDS Joint Ventures** | Site Reliability Engineer — Product, USDS | Feb 2026 – Present |
-| **ByteDance** | Site Reliability Engineer — Video Infrastructure | Sep 2025 – Jan 2026 |
-| **Qualys Inc.** | Site Reliability Engineer | May 2024 – Sep 2025 |
-| **Kroenke Sports & Entertainment** | DevOps Engineer Intern | Jun 2023 – Sep 2023 |
-| **Qualys** | Site Reliability Engineer | Jun 2021 – Jul 2022 |
-| **Netenrich** | Site Reliability Engineer | Nov 2020 – Jun 2021 |
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**AWS Infrastructure Terraform Foundation**](https://github.com/SahilGothoskar/aws-infra) | Reusable AWS infra with custom VPC, multi-AZ subnets, RDS, Route 53 | Terraform, AWS |
-| [**Webapp Cloud Native API Platform**](https://github.com/SahilGothoskar/webapp) | REST API platform with CI-integrated testing & image endpoints | Node.js, Express, PostgreSQL, GitHub Actions |
-| [**TemperStat — IoT Dashboard**](https://github.com/SahilGothoskar/TemperStat) | Raspberry Pi live temperature & humidity dashboard with email export | Python, Flask, Raspberry Pi |
-| [**Selenium Automation Suite**](https://github.com/SahilGothoskar/SeleniumAssignment) | Browser automation for university portals with Allure reporting | Java, Selenium, TestNG, Maven |
-| [**Walmart Sales Analytics**](https://github.com/SahilGothoskar/Sales) | 45-store sales analysis with 30 SQL queries & Twitter sentiment | Python, pandas, SQLite, Tweepy |
-
----
-
-### 📊 GitHub Stats
+### � GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SahilGothoskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilGothoskar&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilGothoskar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
